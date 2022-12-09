@@ -19,7 +19,7 @@ I have a great desire to develop. I possess such personal qualities as execution
 * Git, Github
 
 ***
-## Code Example:
+## Code example:
 
 ### Code after registration in CODEWARS:
 
