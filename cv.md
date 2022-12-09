@@ -23,7 +23,7 @@ I have a great desire to develop. I possess such personal qualities as execution
 
 ### Code after registration in CODEWARS:
 
-### Сondition of the problem : this code does not execute properly. Try to figure out why.
+### Сondition of the problem : this code does not execute properly. 
 
 ```
 function multiply(a, b){
